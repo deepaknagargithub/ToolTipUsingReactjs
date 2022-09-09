@@ -1,0 +1,51 @@
+.tooltip {
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  width: 550px;
+  height: 500px;
+  border: 2px solid black;
+  background-color: gray;
+}
+
+#press {
+  margin-top: 200px;
+  margin-left: 200px;
+  font-size: 50px;
+  background-color: red;
+}
+.msg {
+  color: white;
+}
+
+.msg-bottom {
+  color: black;
+  position: relative;
+  left: 225px;
+  top: 20px;
+}
+
+.msg-top {
+  color: black;
+  position: relative;
+  left: 225px;
+  top: -100px;
+}
+
+.msg-right {
+  color: black;
+  position: relative;
+  left: 360px;
+  top: -50px;
+}
+
+.msg-left {
+  color: black;
+  position: relative;
+  left: 100px;
+  top: -50px;
+}
